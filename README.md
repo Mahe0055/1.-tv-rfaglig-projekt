@@ -58,6 +58,7 @@ Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjene
 
 ## User journey map
 <details open>  
+  <summary>Diagram</summary>
   
   ```mermaid
   journey
