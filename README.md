@@ -14,7 +14,7 @@ Vi vil gerne hjælpe vores målgruppe ved at udvikle en app, som giver overblik 
   
 Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey til vores netværk på Facebook. 35 personer besvarede vores survey. 
 
-Survey link: https://docs.google.com/forms/d/e/1FAIpQLSdpELD3fK4HUdkwh2NGcGHrtefLNEhr7sWw61sf08L07Oy16g/viewform?usp=sf_link 
+[Survey link](https://docs.google.com/forms/d/e/1FAIpQLSdpELD3fK4HUdkwh2NGcGHrtefLNEhr7sWw61sf08L07Oy16g/viewform?usp=sf_link)
   
 </details>
 
