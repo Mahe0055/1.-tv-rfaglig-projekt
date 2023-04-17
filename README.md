@@ -19,7 +19,7 @@ Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey t
 </details>
 
 <details open>
-  <summary> Observation </summary>
+  <summary> ´´Observation </summary>
   Vi har valgt observation for at få dybere bekræftelse eller afkræftelse fra vores målgruppes besvarelse af survey. Vi vil undersøge om der ligger mere bag besvarelserne og tilføjer interview i observationen for at få nærmere forklaring af handlinger eller følelser fra brugeren. Vi iagttager brugeren håndterer problemstillingen i sit naturlige miljø. 
   
 Vi har observeret vores familier, når de søger efter en bestemt film eller serie.  
