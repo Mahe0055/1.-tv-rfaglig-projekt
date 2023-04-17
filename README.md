@@ -10,7 +10,7 @@ Vi vil gerne hjælpe vores målgruppe ved at udvikle en app, som giver overblik 
 
 ## Metoder
 <details>
-  <summary> Survey </summary>
+  <summary> #Survey </summary>
   
 Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey til vores netværk på Facebook. 35 personer besvarede vores survey. 
 
@@ -19,7 +19,7 @@ Survey link: https://docs.google.com/forms/d/e/1FAIpQLSdpELD3fK4HUdkwh2NGcGHrtef
 </details>
 
 <details>
-  <summary> Observation </summary>
+  <summary> #Observation </summary>
   Vi har valgt observation for at få dybere bekræftelse eller afkræftelse fra vores målgruppes besvarelse af survey. Vi vil undersøge om der ligger mere bag besvarelserne og tilføjer interview i observationen for at få nærmere forklaring af handlinger eller følelser fra brugeren. Vi iagttager brugeren håndterer problemstillingen i sit naturlige miljø. 
   
 Vi har observeret vores familier, når de søger efter en bestemt film eller serie.  
