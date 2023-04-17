@@ -58,8 +58,8 @@ Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjene
 
 ## User journey map
 <details open>  
-  ```mermaid
   
+  ```mermaid
   journey
     title User journey - Movie-streaming app
     section Day
@@ -73,6 +73,7 @@ Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjene
       Movie not found: 2: User
       Uses app to find where to watch: 4: User
     Finds out user can watch on HBO: 7: User
+  
   ```
   
 </details>
