@@ -72,6 +72,25 @@ Mål (jeg vil): vide hvor en bestemt film/serie kan streames.
 Motivation (så jeg kan): spare tid på at lede efter en ønsket film/serie og ikke lede det forkerte sted. 
 </details>
 
+## User journey mapping
+
+```mermaid
+journey
+    title User journey - Movie-streaming app
+    section Day
+      Wake up: 6: User
+      Make breakfast: 6: User
+      Do work: 3: User
+      section Midday
+      Colleague recommends movie: 5: User
+      Done with work: 7: User
+      Searches on Netflix for movie: 7: User
+      Movie not found: 2: User
+      Uses app to find where to watch: 4: User
+    Finds out user can watch on HBO: 7: User
+
+
+```
 
 ## UX storyboard
 <img width="712" alt="Skærmbillede 2023-04-17 kl  10 44 21" src="https://user-images.githubusercontent.com/111922379/232432813-f5792541-ff5c-4f0d-ad23-24856132f178.png">
