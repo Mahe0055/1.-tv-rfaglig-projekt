@@ -1,7 +1,7 @@
 # Movie-search app
 by Maheen, Nicklas and William
 
-## Introduction
+## Introduktion
 Vores emne er film/serier på streamingtjenester. Problemstilling lyder således; det kan være svært at finde frem til hvor en bestemt film/serie kan streames. Vi vil derfor gerne undersøge, hvilke udfordringer der er med at finde film/serie på streamingtjenester og hvordan kommer vores brugere frem til hvorhenne en ønsket film/serie kan ses. 
 
 Vores målgruppe er personer, der benytter sig af streamingtjenester til dagligt, til at se film og serier.  
