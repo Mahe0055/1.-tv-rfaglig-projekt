@@ -40,6 +40,32 @@ Brugeren ærgrer sig over ikke at kunne finde den, men lader det ikke være et s
 Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjenesten, som benyttes mest.  
 </details>
 
+## User personas
+
+Billede 1
+
+Billede 2
+
+## User stories
+
+<details> <summary> User 1 </summary>
+Bruger (som): 18-årig gymnasiedreng, ser realityprogrammer flere gange om ugen. 
+Mål (jeg vil): få overblik over hvor det er gratis at streame.  
+Motivation (så jeg kan): undgå at leje andre steder end streamingtjenesterne, som jeg allerede betaler for.  
+</details>
+
+<details> <summary> User 2</summary>
+Bruger (som): 27-årig, færdiguddannet kandidat som elsker at se klassiske film. 
+Mål (jeg vil): vide hvor en bestemt film/serie kan streames. 
+Motivation (så jeg kan): spare tid på at lede efter en ønsket film/serie og ikke lede det forkerte sted. 
+</details>
+
+##UX Storyboard 
+<img width="712" alt="Skærmbillede 2023-04-17 kl  10 44 21" src="https://user-images.githubusercontent.com/111922379/232432813-f5792541-ff5c-4f0d-ad23-24856132f178.png">
+
+## Wireframe and Solution sketch
+<img width="909" alt="Skærmbillede 2023-04-17 kl  10 45 18" src="https://user-images.githubusercontent.com/111922379/232433069-25d377c5-7e1f-4450-abf2-475b207e0011.png">
+
 
 ## Mood board
 ![1](https://user-images.githubusercontent.com/111922379/232430220-33859a11-115b-4d4e-9241-d07b29ed4fc1.png)
