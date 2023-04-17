@@ -50,13 +50,13 @@ Billede 2
 
 ## User stories
 
-<details> <summary> User 1 </summary>
+<details open> <summary> User 1 </summary>
 Bruger (som): 18-årig gymnasiedreng, ser realityprogrammer flere gange om ugen. 
 Mål (jeg vil): få overblik over hvor det er gratis at streame.  
 Motivation (så jeg kan): undgå at leje andre steder end streamingtjenesterne, som jeg allerede betaler for.  
 </details>
 
-<details> <summary> User 2</summary>
+<details open> <summary> User 2</summary>
 Bruger (som): 27-årig, færdiguddannet kandidat som elsker at se klassiske film. 
 Mål (jeg vil): vide hvor en bestemt film/serie kan streames. 
 Motivation (så jeg kan): spare tid på at lede efter en ønsket film/serie og ikke lede det forkerte sted. 
