@@ -63,7 +63,7 @@ Motivation (så jeg kan): spare tid på at lede efter en ønsket film/serie og i
 </details>
 
 
-## User stories
+## UX storyboard
 <img width="712" alt="Skærmbillede 2023-04-17 kl  10 44 21" src="https://user-images.githubusercontent.com/111922379/232432813-f5792541-ff5c-4f0d-ad23-24856132f178.png">
 
 ## Wireframe and Solution sketch
