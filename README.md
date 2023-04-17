@@ -9,7 +9,7 @@ Vores målgruppe er personer, der benytter sig af streamingtjenester til dagligt
 Vi vil gerne hjælpe vores målgruppe ved at udvikle en app, som giver overblik over streamingplatforme til forskellige film og serier, så man ved hvor en bestemt film el. serie kan ses. 
 
 ## Metoder
-<details>
+<details open>
   <summary> Survey </summary>
   
 Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey til vores netværk på Facebook. 35 personer besvarede vores survey. 
@@ -18,7 +18,7 @@ Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey t
   
 </details>
 
-<details>
+<details open>
   <summary> Observation </summary>
   Vi har valgt observation for at få dybere bekræftelse eller afkræftelse fra vores målgruppes besvarelse af survey. Vi vil undersøge om der ligger mere bag besvarelserne og tilføjer interview i observationen for at få nærmere forklaring af handlinger eller følelser fra brugeren. Vi iagttager brugeren håndterer problemstillingen i sit naturlige miljø. 
   
