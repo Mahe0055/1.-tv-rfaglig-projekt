@@ -10,7 +10,7 @@ Vi vil gerne hjælpe vores målgruppe ved at udvikle en app, som giver overblik 
 
 ## Metoder
 <details open>
-  <summary> __Survey__ </summary>
+  <summary> <b>Survey</b> </summary>
   
 Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey til vores netværk på Facebook. 35 personer besvarede vores survey. 
 
@@ -19,7 +19,7 @@ Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey t
 </details>
 
 <details open>
-  <summary> **Observation** </summary>
+  <summary> <b>Observation</b> </summary>
   Vi har valgt observation for at få dybere bekræftelse eller afkræftelse fra vores målgruppes besvarelse af survey. Vi vil undersøge om der ligger mere bag besvarelserne og tilføjer interview i observationen for at få nærmere forklaring af handlinger eller følelser fra brugeren. Vi iagttager brugeren håndterer problemstillingen i sit naturlige miljø. 
   
 Vi har observeret vores familier, når de søger efter en bestemt film eller serie.  
@@ -50,13 +50,13 @@ Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjene
 
 ## User stories
 
-<details open> <summary> User 1 </summary>
+<details open> <summary><b> User 1 </b></summary>
 Bruger (som): 18-årig gymnasiedreng, ser realityprogrammer flere gange om ugen. 
 Mål (jeg vil): få overblik over hvor det er gratis at streame.  
 Motivation (så jeg kan): undgå at leje andre steder end streamingtjenesterne, som jeg allerede betaler for.  
 </details>
 
-<details open> <summary> User 2</summary>
+<details open> <summary> <b>User 2</b></summary>
 Bruger (som): 27-årig, færdiguddannet kandidat som elsker at se klassiske film. 
 Mål (jeg vil): vide hvor en bestemt film/serie kan streames. 
 Motivation (så jeg kan): spare tid på at lede efter en ønsket film/serie og ikke lede det forkerte sted. 
