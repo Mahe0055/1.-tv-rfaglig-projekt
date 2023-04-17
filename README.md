@@ -59,6 +59,12 @@ Brugeren ærgrer sig over ikke at kunne finde den, men lader det ikke være et s
 Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjenesten, som benyttes mest.  
 </details>
 
+
+<details open>
+<summary> Konklusion </summary>
+
+</details>
+
 ## User personas
 
 **Billede 1**
