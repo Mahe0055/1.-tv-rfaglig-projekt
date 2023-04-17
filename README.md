@@ -1,5 +1,5 @@
-# 1.-tv-rfaglig-projekt
-
+# Movie-search app
+made by Maheen, Nicklas and William
 
 
 # Mood board
