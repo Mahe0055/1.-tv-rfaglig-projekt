@@ -10,7 +10,7 @@ Vi vil gerne hjælpe vores målgruppe ved at udvikle en app, som giver overblik 
 
 ## Metoder
 <details open>
-  <summary> **Survey** </summary>
+  <summary> __Survey__ </summary>
   
 Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey til vores netværk på Facebook. 35 personer besvarede vores survey. 
 
