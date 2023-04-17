@@ -16,6 +16,18 @@ Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey t
 
 [Survey link](https://docs.google.com/forms/d/e/1FAIpQLSdpELD3fK4HUdkwh2NGcGHrtefLNEhr7sWw61sf08L07Oy16g/viewform?usp=sf_link)
   
+  
+  ´´´mermaid
+  
+  pie title Hvordan finder du ud af, hvor du kan streame en bestemt film eller serie?
+    "Googler det" : 22
+    "Kigger på min streamingtjeneste" : 4
+    "Playpilot" : 4
+
+
+  
+  ´´´
+  
 </details>
 
 <details open>
