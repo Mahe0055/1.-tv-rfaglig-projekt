@@ -24,6 +24,15 @@ Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey t
     "Playpilot" : 4
   ```
 
+  ```mermaid
+  pie title Hvad gør du, hvis du ikke kan finde den ønskede film eller serie?
+    "Ser noget andet" : 17
+    "Giver op" : 10
+    "Køber/lejer den et andet sted" : 3
+  
+  ```
+  
+  
 </details>
 
 
