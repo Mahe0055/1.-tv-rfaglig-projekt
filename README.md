@@ -61,7 +61,7 @@ Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjene
 
 
 <details open>
-<summary> Konklusion </summary>
+  <summary> <b>Konklusion</b> </summary>
 
 </details>
 
