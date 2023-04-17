@@ -10,7 +10,7 @@ Vi vil gerne hjælpe vores målgruppe ved at udvikle en app, som giver overblik 
 
 ## Metoder
 <details open>
-  <summary> Survey </summary>
+  <summary> **Survey** </summary>
   
 Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey til vores netværk på Facebook. 35 personer besvarede vores survey. 
 
@@ -19,19 +19,19 @@ Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey t
 </details>
 
 <details open>
-  <summary> ´´Observation </summary>
+  <summary> **Observation** </summary>
   Vi har valgt observation for at få dybere bekræftelse eller afkræftelse fra vores målgruppes besvarelse af survey. Vi vil undersøge om der ligger mere bag besvarelserne og tilføjer interview i observationen for at få nærmere forklaring af handlinger eller følelser fra brugeren. Vi iagttager brugeren håndterer problemstillingen i sit naturlige miljø. 
   
 Vi har observeret vores familier, når de søger efter en bestemt film eller serie.  
 Observationsform: En blanding af naturligt og kontrolleret observation. Brugerne får en opstillet opgave, der skal løses under et interview, hvor der stilles spørgsmål under opgaven. 
   
-Lokation: Hjemme hos brugeren, i sit naturlige miljø. Brugeren vil hvile mere i selv sig i sine handlinger 
+**Lokation:** Hjemme hos brugeren, i sit naturlige miljø. Brugeren vil hvile mere i selv sig i sine handlinger 
   
-Brugere: Vores brugere er alle, der bruger streamingtjenester. 
+**Brugere:** Vores brugere er alle, der bruger streamingtjenester. 
 
-Fokus: Personen skal finde ud af hvor, de kan se den givne film / serie mens de undervejs fortæller, hvad de tænker og/eller føler. Vi fokuserer på hvilke platforme (google, IMDB, YT, Netflix m.m.) der åbnes og hvilke tanker og følelser kommer der frem hos brugeren.
+**Fokus:** Personen skal finde ud af hvor, de kan se den givne film / serie mens de undervejs fortæller, hvad de tænker og/eller føler. Vi fokuserer på hvilke platforme (google, IMDB, YT, Netflix m.m.) der åbnes og hvilke tanker og følelser kommer der frem hos brugeren.
   
-Indsigter: 
+**Indsigter:**
 
 Brugeren kigger først på streamingtjenesten, som benyttes allermest, dernæst andre tjenester som bruges mindre.  
 
@@ -42,9 +42,9 @@ Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjene
 
 ## User personas
 
-Billede 1
+**Billede 1**
 
-Billede 2
+**Billede 2**
 
 
 
