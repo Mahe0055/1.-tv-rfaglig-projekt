@@ -1,9 +1,10 @@
 # 1.-tv-rfaglig-projekt
 
-# Style tile
-<details>
-<summary>This is our style tile for the project</summary>
-<br>
-  ![2](https://user-images.githubusercontent.com/111922379/232430125-b173b21a-91eb-46d4-b642-6c9fcc84b303.png)
 
-</details>
+
+# Mood board
+![1](https://user-images.githubusercontent.com/111922379/232430220-33859a11-115b-4d4e-9241-d07b29ed4fc1.png)
+
+# Style tile
+![2](https://user-images.githubusercontent.com/111922379/232430186-691ded6d-be10-4074-af62-6a0a89cb7135.png)
+
