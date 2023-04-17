@@ -22,10 +22,11 @@ Vi har lavet survey, for at få kvantitative data. Vi har udsendt vores survey t
     "Googler det" : 22
     "Kigger på min streamingtjeneste" : 4
     "Playpilot" : 4
-
   ```
-  
+
 </details>
+
+
 
 <details open>
   <summary> <b>Observation</b> </summary>
@@ -72,7 +73,6 @@ Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjene
       Movie not found: 2: User
       Uses app to find where to watch: 4: User
     Finds out user can watch on HBO: 7: User
-
   ```
   
 </details>
