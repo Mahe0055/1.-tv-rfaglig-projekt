@@ -56,6 +56,8 @@ Brugeren ender med at finde en anden gratis tilgængelig film på streamingtjene
 
 **Billede 2**
 
+<br><br>
+
 ## User journey map
 <details open>  
   <summary>Diagram</summary>
